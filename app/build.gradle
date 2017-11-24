@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId "id.sch.smktelkom_mlg.gmaps"
+        applicationId "com.example.jayanacitraagung.googlemapsapi"
         minSdkVersion 17
         targetSdkVersion 25
         versionCode 1
